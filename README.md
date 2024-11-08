@@ -2,6 +2,8 @@
 
 Simple Python script to visualize dimensions of a PC case.
 
+![Demo](demo.gif)
+
 ## Setup
 
 To set up the project, follow these steps:
