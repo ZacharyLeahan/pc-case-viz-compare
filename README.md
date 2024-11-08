@@ -56,6 +56,12 @@ To run the application, execute the following command:
 python app.py
 ```
 
+## Customization
+
+You can easily tweak the case names and dimensions in the `app.py` file to suit your needs. This allows you to visualize different PC cases by adjusting the parameters in the `cases` dictionary.
+
+For accurate code tweaks and obtaining dimensions of desired cases, consider using AI tools like ChatGPT or Claude. These tools can provide guidance and suggestions for modifying the code effectively.
+
 ## License
 
 This project is licensed under the terms of the LICENSE file.
